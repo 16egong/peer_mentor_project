@@ -14,4 +14,4 @@ To Mentee:
 4. Message me when you are able to open up a notebook
 
 To Mentor:
-1. <  Please edit this and tell me if you installed pip or conda  >
+1. I installed Anaconda through the Jupyter installation page
